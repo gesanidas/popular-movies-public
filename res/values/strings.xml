@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="settings">Settings</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="favorites">Favorites</string>
+    <string name="popular_key">popular</string>
+    <string name="top_rated_key">top_rated</string>
+    <string name="favorites_key">favorites</string>
+    <string name="sort_key">sort</string>
+    <string name="sort_label">Sort</string>
+    <string name="sort_default">popular</string>
+    <string name="textview">TextView</string>
+    <string name="action_share">SHARE</string>
+
+
+</resources>
